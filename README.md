@@ -112,8 +112,6 @@ print("Lemmatized:", lemmatized_words)
 
 Feel free to contribute, ask questions, and share your NLTK projects!
 
-## 📜 License
 
-This guide is open-source. Share and learn! 🌈
 
 **Happy NLP Journey!** 🚀📊
